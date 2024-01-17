@@ -2,7 +2,7 @@
 
 For the 2024 Survey Hardware data, a binnable graph can be created using "Number of Students" which is the total number of rows on the Survey Hardware data (ie: each row represents a student who completed the Hardware survey).  
 
-Graphs can be created using "Number of Students" for the following columns:/n
+Graphs can be created using "Number of Students" for the following columns:\n
   A. Operating System
   B. CPU Cycle Rate (in GHz)
   C. CPU Number of Cores (int)
