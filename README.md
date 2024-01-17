@@ -12,7 +12,7 @@ Graphs can be created using "Number of Students" for the following columns:
 
 Graphs cannot be created using "Number of Students" for the following columns:
   A. Timestamp - since there are many different timestamps for each student, the data does not present well in a graph
-  B. GPU (short description as a string) - since there are many different descriptions, the data does not present well in a      graph.
+  B. GPU (short description as a string) - since there are many different descriptions, the data does not present well in a      graph and the value must be an instance of str or bytes, not a float.
 
 
 
